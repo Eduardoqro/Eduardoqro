@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hola bienvenido , es un gusto conocerte<br>Soy programador Jr.  Java Full Stack y Front-end.<br>Me fascina la tecnología , los videojuegos , los datos y como interactúa estos programas con los diversos usuarios que hay y que van haber.<br><br>
 
+<h1 align="center">Hi 👋, I'm Edgar</h1>
+<h3 align="center">A JS/TS-based fullstack software developer</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eduardo-tomas-mendoza-s%C3%A1nchez-60a2661ab) 
