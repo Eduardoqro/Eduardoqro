@@ -13,7 +13,8 @@
   
   
 - 🔭 Me fascina la tecnología , los videojuegos , los datos y como interactúa estos programas con los diversos usuarios que hay y que van haber.
-*"La tecnología se estructura con lógica y criterio pero se le da vida con arte y cultura"*
+  
+  <h4 align="center"><i>"La tecnología se estructura con lógica y criterio pero se le da vida con arte y cultura"</i></h4>
 
 
 ## 🛠 Habilidades Tecnicas
