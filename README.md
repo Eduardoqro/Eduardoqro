@@ -8,7 +8,7 @@
   
  
 [![Linkedin: Eduardo Tomas Mendoza Sánchez](https://img.shields.io/badge/-EduardoTomasMendozaSanchez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-tomas-mendoza-s%C3%A1nchez-60a2661ab/)](https://www.linkedin.com/in/eduardo-tomas-mendoza-s%C3%A1nchez-60a2661ab/)
-[![GitHub gagocarrilloedgar](https://img.shields.io/github/followers/gagocarrilloedgar?label=follow&style=social)](https://github.com/gagocarrilloedgar)
+[![GitHub Eduardoqro](https://img.shields.io/github/followers/Eduardoqro?label=follow&style=social)](https://github.com/Eduardoqro)
 
   
   
