@@ -17,4 +17,11 @@
 
 
 ## <img src="https://media3.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif?cid=790b7611aeabe34c4fecb60e64e8bc8792646e7f6343e3b5&rid=giphy.gif&ct=g" width="60"> Habilidades Tecnicas
-Javascript HTML, CSS, UX/UI, Pyhton, React 
+ 
+ <ul>
+ <li> Html,  CSS, React</li>
+ <li> Javascript</li>
+ <li> Python</li>
+ <li> Arduino</li>
+ </ul>
+
