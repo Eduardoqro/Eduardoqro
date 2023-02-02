@@ -15,13 +15,26 @@
   
   <h4 align="center"><i>"La tecnología se estructura con lógica y criterio pero se le da vida con arte y cultura"</i></h4>
 
-
-## <img src="https://media3.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif?cid=790b7611aeabe34c4fecb60e64e8bc8792646e7f6343e3b5&rid=giphy.gif&ct=g" width="60"> Habilidades Tecnicas
+<!--animación para lista de habilidades --> 
+## <img src="https://media3.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif?cid=790b7611aeabe34c4fecb60e64e8bc8792646e7f6343e3b5&rid=giphy.gif&ct=g" width="60">Habilidades Técnicas
+<!--Lista de Habilidades Técnicas, --> 
  
  <ul>
- <li> Html,  CSS, React</li>
- <li> Javascript</li>
- <li> Python</li>
- <li> Arduino</li>
+ Lenguajes
+   <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Javascript</li>
+    <li>Python</li>
+   </ul>
+  GUI
+ <ul>
+    <li>Visual Studio Code</li>
+    <li>Eclipse</li>
+ </ul>
+   Sistemas operativos
+  
+ <ul>
+    <li>Windows</li>
  </ul>
 
