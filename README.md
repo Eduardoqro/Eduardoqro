@@ -34,7 +34,7 @@
    <tbody>
      <tr>
       <!--primera fila-->
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="30" height="30"/>  Javascript</td>
+      <td><img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="30" height="30"/>  Javascript</td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>HTML </td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="VS" width="24" height="24"/> Visual Studio Code</td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/768px-Windows_logo_-_2021.svg.png?20220927154043" alt="windows" width="30" height="30"/> Windows</td>
