@@ -6,7 +6,7 @@
 <h3 align="center">< Programador Jr. Java Full Stack y Front-end ></h3>
  
 <!--Apartado donde hable de ti , cosas que te gustan hacer, actividades que realizas, medios de contacto-->
-<h2>Un poco sobre mi ... </h3>
+<h2>Un poco sobre mi ... </h2>
  
 <!-- Links para Linkedin y github-->
 [![Linkedin: Eduardo Tomas Mendoza Sánchez](https://img.shields.io/badge/-EduardoTomasMendozaSanchez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-tomas-mendoza-s%C3%A1nchez-60a2661ab/)](https://www.linkedin.com/in/eduardo-tomas-mendoza-s%C3%A1nchez-60a2661ab/)
@@ -64,4 +64,7 @@
      </tr>
   </tboby>
  </table>
+ 
+ <!--animacion y apartado de protectos --> 
+## <img src="https://media3.giphy.com/media/fPsiJXi0uLJZu/giphy.gif?cid=790b7611182d62a2edbf85c8b0025524570a2c473b0f8655&rid=giphy.gif&ct=s" width="60">Proyectos
  
