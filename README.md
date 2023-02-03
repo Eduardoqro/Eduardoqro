@@ -56,6 +56,11 @@
      <tr>
       <td><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40" height="35"/> Java</td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstap" width="35" height="30"/> Bootstrap</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" alt="netlify" width="35" height="35"/> Netlify</td>
      </tr>
      <!--Cuarta fila-->
      <tr>
@@ -67,8 +72,10 @@
  
  <!--animacion y apartado de protectos --> 
 ## <img src="https://media3.giphy.com/media/fPsiJXi0uLJZu/giphy.gif?cid=790b7611182d62a2edbf85c8b0025524570a2c473b0f8655&rid=giphy.gif&ct=s" width="70">Proyectos
- 
- <h3>E-commerce <code>Geekmitive</code></h3><img align='right' src="https://raw.githubusercontent.com/Eduardoqro/Eduardoqro/main/Geekmitive%20Home%20-%20Brave%202023-02-03%2013-31-22.gif" width="450"><p>Desarrollado durante el Bootcamp de Generation G18. Nuestra E-commerce Geekmitive esta enfocado en todos los usuarios de la cultura geek que desean adquirir diversos artiulos de diversas marcas y generos.<br>Se utilizo Html, CSS, Javascript, Java, Bootstrap, Pootsman, Netlify y Figma para su  diseño, desarrollo y pruebas. <br> Link de la E-commerce: https://geekmitive.netlify.app/# </p><br><p>Desarrollado por los 7 pritmitivos:
+ <!-- git de la pagina web-->
+ <h3>E-commerce <code>Geekmitive</code></h3><img align='right' src="https://raw.githubusercontent.com/Eduardoqro/Eduardoqro/main/Geekmitive%20Home%20-%20Brave%202023-02-03%2013-31-22.gif" width="450">
+ <!-- Contenido-->
+ <p>Desarrollado durante el Bootcamp de Generation G18. Nuestra E-commerce Geekmitive esta enfocado en todos los usuarios de la cultura geek que desean adquirir diversos artiulos de diversas marcas y generos.<br>Se utilizo Html, CSS, Javascript, Java, Bootstrap, Pootsman, Netlify y Figma para su  diseño, desarrollo y pruebas. <br> Link de la E-commerce: https://geekmitive.netlify.app/# </p><br><p>Desarrollado por los 7 pritmitivos:
 <a href="https://github.com/laloPadilla10">@laloPadilla10</a>,
 <a href="https://github.com/Anahisinvida">@Anahisinvida</a>,
 <a href="https://github.com/GuaLop">@GuaLop</a>,
