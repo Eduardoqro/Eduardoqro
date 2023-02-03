@@ -28,7 +28,9 @@
      <th>Frontend</th>
      <th>GUI</th>
      <th>Sistemas operativos</th>
+     <th>Databases</th>
      <th>Diseño</th>
+     <th>Otros</th>
     </tr>
    </thead>
    <tbody>
@@ -38,7 +40,9 @@
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="35"/>HTML </td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="VS" width="27" height="27"/> Visual Studio Code</td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/768px-Windows_logo_-_2021.svg.png?20220927154043" alt="windows" width="30" height="30"/> Windows</td>
-       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" alt="canva" width="40" height="35"/> Canva</td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="35"/> MySQL</td> 
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" alt="canva" width="40" height="35"/> Canva</td>
+      <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="35"/> Git</td>
      </tr>
      <!--segunda fila-->
      <tr>
@@ -46,7 +50,9 @@
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="35"/>CSS</td>
       <td><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" width="30" height="27"/> Eclipse</td>
       <td><img src="https://conocimientolibre.mx/wp-content/uploads/2019/04/logo-ubuntu.png" alt="ubuntu" width="30" height="30"/> Ubuntu</td>
+      <td></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="Figma" width="25" height="25"/> Figma</td>
+      <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="mysql" width="35" height="35"/> Postman</td>
      </tr>
      <!--Tercera fila-->
      <tr>
