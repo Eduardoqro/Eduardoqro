@@ -68,3 +68,4 @@
  <!--animacion y apartado de protectos --> 
 ## <img src="https://media3.giphy.com/media/fPsiJXi0uLJZu/giphy.gif?cid=790b7611182d62a2edbf85c8b0025524570a2c473b0f8655&rid=giphy.gif&ct=s" width="60">Proyectos
  
+ <img src="https://drive.google.com/file/d/1NXbkhTiyX3NkPZZrk-2LaKmSAzLqbUIe/view?usp=share_link" width="40">
