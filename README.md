@@ -68,7 +68,12 @@
  <!--animacion y apartado de protectos --> 
 ## <img src="https://media3.giphy.com/media/fPsiJXi0uLJZu/giphy.gif?cid=790b7611182d62a2edbf85c8b0025524570a2c473b0f8655&rid=giphy.gif&ct=s" width="60">Proyectos
  
- <h3>E-commerce <code>Geekmitive</code></h3><img align='right' src="https://raw.githubusercontent.com/Eduardoqro/Eduardoqro/main/Geekmitive%20Home%20-%20Brave%202023-02-03%2013-31-22.gif" width="400"><p>Desarrollado durante el Bootcamp de Generation G18. Nuestra E-commerce Geekmitive esta enfocado en todos los usuarios de la cultura geek que desean adquirir diversos artiulos de diversas marcas y generos.<br>Se utilizo Html, CSS, Javascript, Java, Bootstrap, Pootsman, Netlify y Figma para su  diseño, desarrollo y pruebas. <br> Link de la E-commerce: https://geekmitive.netlify.app/# </p><br><p>Desarrollado por los 7 pritmitivos: laloPadilla10,Anahisinvida,AngelKamy,ArturoCarmona,
-[@maggievillasenor ](https://github.com/maggievillasenor) y @Eduardoqro </p>
-<a href="https://github.com/maggievillasenor">@maggievillasenor</a>
-<a href="https://github.com/maggievillasenor">@Eduardoqro</a>
+ <h3>E-commerce <code>Geekmitive</code></h3><img align='right' src="https://raw.githubusercontent.com/Eduardoqro/Eduardoqro/main/Geekmitive%20Home%20-%20Brave%202023-02-03%2013-31-22.gif" width="400"><p>Desarrollado durante el Bootcamp de Generation G18. Nuestra E-commerce Geekmitive esta enfocado en todos los usuarios de la cultura geek que desean adquirir diversos artiulos de diversas marcas y generos.<br>Se utilizo Html, CSS, Javascript, Java, Bootstrap, Pootsman, Netlify y Figma para su  diseño, desarrollo y pruebas. <br> Link de la E-commerce: https://geekmitive.netlify.app/# </p><br><p>Desarrollado por los 7 pritmitivos:
+<a href="https://github.com/laloPadilla10">@laloPadilla10</a>,
+<a href="https://github.com/Anahisinvida">@Anahisinvida</a>,
+<a href="https://github.com/GuaLop">@GuaLop</a>,
+<a href="https://github.com/ArturoCarmona">@ArturoCarmona</a>,
+<a href="https://github.com/espagna">@espagna</a>,
+<a href="https://github.com/maggievillasenor">@maggievillasenor</a> y
+<a href="https://github.com/Eduardoqro">@Eduardoqro</a></p>
+
