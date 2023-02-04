@@ -34,38 +34,38 @@
    <tbody>
      <tr>
       <!--primera fila-->
-      <td><img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="30" height="30"/><br> <p align="center">Javascript</p></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>HTML </td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="VS" width="24" height="24"/><p align="center"> Visual Studio Code</p></td>
-      <td><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/768px-Windows_logo_-_2021.svg.png?20220927154043" alt="windows" width="30" height="30"/> Windows</td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> MySQL</td> 
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" alt="canva" width="30" height="30"/> Canva</td>
-      <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> Git</td>
+      <td><p align="center"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="30" height="30"/><br>Javascript</p></td>
+      <td><p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> <br>HTML</p></td>
+      <td><p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="VS" width="30" height="30"/><br>Visual Studio Code</p></td>
+      <td><p align="center"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/768px-Windows_logo_-_2021.svg.png?20220927154043" alt="windows" width="30" height="30"/> <br>Windows</p></td>
+      <td><p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/><br> MySQL</p></td> 
+      <td><p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" alt="canva" width="30" height="30"/><br>Canva</p></td>
+      <td><p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/><br>Git</p></td>
      </tr>
      <!--segunda fila-->
      <tr>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> Python</td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="30" height="30"/>CSS</td>
-      <td><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" width="30" height="30"/> Eclipse</td>
-      <td><img src="https://conocimientolibre.mx/wp-content/uploads/2019/04/logo-ubuntu.png" alt="ubuntu" width="30" height="30"/> Ubuntu</td>
-      <td></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="Figma" width="25" height="25"/> Figma</td>
-      <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="mysql" width="30" height="30"/> Postman</td>
+      <td><p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/><br>Python</p></td>
+      <td><p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="30" height="30"/><br>CSS</p></td>
+      <td><p align="center"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" width="30" height="30"/><br>Eclipse</p></td>
+      <td><p align="center"><img src="https://conocimientolibre.mx/wp-content/uploads/2019/04/logo-ubuntu.png" alt="ubuntu" width="30" height="30"/><br>Ubuntu</p></td>
+      <td><p align="center"></td>
+      <td><p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="Figma" width="30" height="30"/><br>Figma</p></td>
+      <td><p align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="mysql" width="30" height="30"/><br>Postman</p></td>
      </tr>
      <!--Tercera fila-->
      <tr>
-      <td><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="30" height="30"/> Java</td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstap" width="30" height="30"/> Bootstrap</td>
+      <td><p align="center"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="30" height="30"/><br>Java</p></td>
+      <td><p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstap" width="30" height="30"/><br>Bootstrap</p></td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
-      <td><img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" alt="netlify" width="30" height="30"/> Netlify</td>
+      <td><p align="center"><img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" alt="netlify" width="30" height="30"/><br>Netlify</p></td>
      </tr>
      <!--Cuarta fila-->
      <tr>
-      <td><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/> Arduino</td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="30" height="30"/> React</td>
+      <td><p align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/><br>Arduino</p></td>
+      <td><p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="30" height="30"/><br>React</p></td>
      </tr>
   </tboby>
  </table>
@@ -75,7 +75,7 @@
  <!-- git de la pagina web-->
  <h3>E-commerce <code>Geekmitive</code></h3><img align='right' src="https://raw.githubusercontent.com/Eduardoqro/Eduardoqro/main/Geekmitive%20Home%20-%20Brave%202023-02-03%2013-31-22.gif" width="450">
  <!-- Contenido-->
- <p>Desarrollado durante el Bootcamp de Generation G18. Nuestra E-commerce Geekmitive esta enfocado en todos los usuarios de la cultura geek que desean adquirir diversos artiulos de diversas marcas y generos.<br>Se utilizo Html, CSS, Javascript, Java, Bootstrap, Pootsman, Netlify y Figma para su  diseño, desarrollo y pruebas. <br> Link de la E-commerce: https://geekmitive.netlify.app/# </p><br><p>Desarrollado por los 7 pritmitivos:
+ <p>Desarrollado durante el Bootcamp de Generation G18. Nuestra E-commerce Geekmitive esta enfocado en todos los usuarios de la cultura geek que desean adquirir diversos artiulos de diversas marcas y generos.<br>Se utilizo Html, CSS, Javascript, Java, Bootstrap, Postman, Netlify y Figma para su  diseño, desarrollo y pruebas. <br> Link de la E-commerce: https://geekmitive.netlify.app/# </p><br><p>Desarrollado por los 7 pritmitivos:
 <a href="https://github.com/laloPadilla10">@laloPadilla10</a>,
 <a href="https://github.com/Anahisinvida">@Anahisinvida</a>,
 <a href="https://github.com/GuaLop">@GuaLop</a>,
