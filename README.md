@@ -72,6 +72,10 @@
  
  <!--animacion y apartado de protectos --> 
 ## <img src="https://media3.giphy.com/media/fPsiJXi0uLJZu/giphy.gif?cid=790b7611182d62a2edbf85c8b0025524570a2c473b0f8655&rid=giphy.gif&ct=s" width="70">Proyectos
+<!-- git de la pagina web-->
+ <h3>Portafolio<code>EduardoDev</code></h3><img align='right' src="https://raw.githubusercontent.com/Eduardoqro/Eduardoqro/main/Geekmitive%20Home%20-%20Brave%202023-02-03%2013-31-22.gif" width="450">
+ <!-- Contenido-->
+ <p>Desarrollado durante el Bootcamp de Generation G18. Nuestra E-commerce Geekmitive esta enfocado en todos los usuarios de la cultura geek que desean adquirir diversos artiulos de diversas marcas y generos.<br>Se utilizo Html, CSS, Javascript, Java, Bootstrap, Postman, Netlify y Figma para su  diseño, desarrollo y pruebas. <br> Link de la E-commerce: https://geekmitive.netlify.app/# </p><br>
  <!-- git de la pagina web-->
  <h3>E-commerce <code>Geekmitive</code></h3><img align='right' src="https://raw.githubusercontent.com/Eduardoqro/Eduardoqro/main/Geekmitive%20Home%20-%20Brave%202023-02-03%2013-31-22.gif" width="450">
  <!-- Contenido-->
