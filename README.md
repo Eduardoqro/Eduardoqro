@@ -9,7 +9,7 @@
 <h2>Un poco sobre mi ... </h2>
  
 <!-- Links para Linkedin y github-->
-[![Linkedin: Eduardo Tomas Mendoza Sánchez](https://img.shields.io/badge/-EduardoTomasMendozaSanchez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-tomas-mendoza-s%C3%A1nchez-60a2661ab/)](https://www.linkedin.com/in/eduardo-tomas-mendoza-s%C3%A1nchez-60a2661ab/)
+[![Linkedin:Eduardo Mendoza](https://img.shields.io/badge/-EduardoMendoza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardoqro)](https://https://www.linkedin.com/in/eduardoqro)
 [![GitHub Eduardoqro](https://img.shields.io/github/followers/Eduardoqro?label=follow&style=social)](https://github.com/Eduardoqro)
 
 - 🔭 Me fascina la tecnología , los videojuegos , los datos y como interactúa estos programas con los diversos usuarios que hay y que van haber.
