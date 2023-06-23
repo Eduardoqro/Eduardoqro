@@ -59,7 +59,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td><p align="center"><img src=" https://icons8.com/icon/4VVL78edhbW9/adobe-xd" alt="Adobe XD" width="30" height="30"/><br>Adobe XD</p></td>
+      <td><p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe XD" width="30" height="30"/><br>Adobe XD</p></td>
       <td><p align="center"><img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" alt="netlify" width="30" height="30"/><br>Netlify</p></td>
      </tr>
      <!--Cuarta fila-->
