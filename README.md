@@ -89,8 +89,8 @@
  <p>Portafolio personal donde donde comparto mi experiencia, habilidades y logros profesionales. Encontrarán una visión general de mi trayectoria, destacando mi pasión y fortalezas. Exploro mi experiencia laboral, habilidades clave y proyectos destacados.<br>Se utilizo Html, CSS, Javascript, Bootstrap y Netlify para su diseño, desarrollo y lanzamiento.</p> 
  <br> Link del Portafolio: https://portafolioeduardodev.netlify.app/ </p><br>
 
- <h3>Portafolio<code>Análsisi Atletas</code></h3><img align='right' src="https://raw.githubusercontent.com/Eduardoqro/Eduardoqro/main/Untitled video - Made with Clipchamp (1).gif" width="450">
+ <h3>Análisis<code>Atletas mejor pagados 1990-2020</code></h3><img align='right' src="https://raw.githubusercontent.com/Eduardoqro/Eduardoqro/main/Untitled video - Made with Clipchamp (4).gif" width="450">
  <!-- Contenido-->
- <p>Portafolio personal donde donde comparto mi experiencia, habilidades y logros profesionales. Encontrarán una visión general de mi trayectoria, destacando mi pasión y fortalezas. Exploro mi experiencia laboral, habilidades clave y proyectos destacados.<br>Se utilizo Html, CSS, Javascript, Bootstrap y Netlify para su diseño, desarrollo y lanzamiento.</p> 
- <br> Link del Portafolio: https://portafolioeduardodev.netlify.app/ </p><br>
+ <p>Proyecto realizado durante el master de data sciencie/Ai en DEF.V. Se realizo una limpieza y arreglo de datos para su análisis. Mostrando rankings, ingresos, ganancias, perdidas y deportes más jugados en el periodo de 1990 a 2020. <br> Se utilizo python y excel para este proyecto.</p>
+ <br> Link del Repositorio: https://github.com/Eduardoqro/ProyectoAtletas/blob/main/Proyecto%20An%C3%A1lisis%20de%20los%20atletas%20mejor%20pagados%20del%20mundo%20.ipynb</p><br>
 
