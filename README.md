@@ -86,6 +86,6 @@
 
  <h3>Portafolio<code>EduardoDev</code></h3><img align='right' src="https://raw.githubusercontent.com/Eduardoqro/Eduardoqro/main/Untitled video - Made with Clipchamp (1).gif" width="450">
  <!-- Contenido-->
- <p>Portafolio personal donde donde comparto mi experiencia, habilidades y logros profesionales. Encontrarán una visión general de mi trayectoria, destacando mi pasión y fortalezas. Exploro mi experiencia laboral, habilidades clave y proyectos destacados.<br>Se utilizo Html, CSS, Javascript, Bootstrap,y Netlify para su diseño, desarrollo y lanzamiento.</p> 
+ <p>Portafolio personal donde donde comparto mi experiencia, habilidades y logros profesionales. Encontrarán una visión general de mi trayectoria, destacando mi pasión y fortalezas. Exploro mi experiencia laboral, habilidades clave y proyectos destacados.<br>Se utilizo Html, CSS, Javascript, Bootstrap y Netlify para su diseño, desarrollo y lanzamiento.</p> 
  <br> Link del Portafolio: https://portafolioeduardodev.netlify.app/ </p><br>
 
