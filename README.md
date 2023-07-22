@@ -102,8 +102,8 @@
  <p>Proyecto realizado durante el master de data sciencie/Ai en DEF.V. Se realizo una limpieza y arreglo de datos para su análisis. Mostrando rankings, ingresos, ganancias, perdidas y deportes más jugados en el periodo de 1990 a 2020. <br> Se utilizo python y excel para este proyecto.</p>
  <br> Link del Repositorio: https://github.com/Eduardoqro/ProyectoAtletas/blob/main/Proyecto%20An%C3%A1lisis%20de%20los%20atletas%20mejor%20pagados%20del%20mundo%20.ipynb</p><br>
 
- <h3>Juegos<code>Desarrollo de juego de laberinto y adivinanzas </code></h3><img align='right' src="https://raw.githubusercontent.com/Eduardoqro/Eduardoqro/main/Untitled video - Made with Clipchamp (4).gif" width="450">
+ <h3>Juegos<code>Desarrollo de juego de laberinto y adivinanzas </code></h3><img align='right' src="https://raw.githubusercontent.com/Eduardoqro/Eduardoqro/main/Adivinanzas.png" width="450">
  <!-- Contenido-->
- <p>Proyecto realizado durante el master de data sciencie/Ai en DEF.V. Se realizo una limpieza y arreglo de datos para su análisis. Mostrando rankings, ingresos, ganancias, perdidas y deportes más jugados en el periodo de 1990 a 2020. <br> Se utilizo python y excel para este proyecto.</p>
- <br> Link del Repositorio: https://github.com/Eduardoqro/ProyectoAtletas/blob/main/Proyecto%20An%C3%A1lisis%20de%20los%20atletas%20mejor%20pagados%20del%20mundo%20.ipynb</p><br>
+ <p>Proyectos realizados durante el curso de desarrollos de videojuegos con Unity. Se desarrollaron 2 juegos, un juedo de adivinanzas y otro de laberinto. Se utilizó el motor de desarrollo para videojuegos Unity, visual studio para la programación de scripting con C# y pixelart para los diseños de jugador, ambiente y enemigos.   </p>
+ <br> Links de los Repositorios: <a href="https://github.com/Eduardoqro/Adivinanzas">Adivinanzas</a>, <a href="https://github.com/Eduardoqro/Laberinto">Laberinto</a>,</p><br>
 
