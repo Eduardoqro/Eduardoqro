@@ -30,7 +30,6 @@
      <th>Games</th>
      <th>Diseño</th>
      <th>Otros</th>
-     
     </tr>
    </thead>
    <tbody>
