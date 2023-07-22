@@ -104,6 +104,6 @@
 
  <h3>Juegos<code>Desarrollo de juego de laberinto y adivinanzas </code></h3><img align='right' src="https://raw.githubusercontent.com/Eduardoqro/Eduardoqro/main/Adivinanzas.png" width="450">
  <!-- Contenido-->
- <p>Proyectos realizados durante el curso de desarrollos de videojuegos con Unity. Se desarrollaron 2 juegos, un juedo de adivinanzas y otro de laberinto. Se utilizó el motor de desarrollo para videojuegos Unity, visual studio para la programación de scripting con C# y pixelart para los diseños de jugador, ambiente y enemigos.   </p>
+ <p>Proyectos realizados durante el curso de desarrollo de videojuegos con Unity. Se desarrollaron 2 juegos, un juedo de adivinanzas y otro de laberinto. Se utilizó el motor de desarrollo para videojuegos Unity, visual studio para la programación de scripting con C# y pixelart para los diseños de jugador, ambiente y enemigos.   </p>
  <br> Links de los Repositorios: <a href="https://github.com/Eduardoqro/Adivinanzas">Adivinanzas</a> y <a href="https://github.com/Eduardoqro/Laberinto">Laberinto</a></p><br>
 
