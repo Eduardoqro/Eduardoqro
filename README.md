@@ -27,8 +27,10 @@
      <th>GUI</th>
      <th>Sistemas operativos</th>
      <th>Databases</th>
+     <th>Games</th>
      <th>Diseño</th>
      <th>Otros</th>
+     
     </tr>
    </thead>
    <tbody>
@@ -38,7 +40,8 @@
       <td><p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> <br>HTML</p></td>
       <td><p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="VS" width="30" height="30"/><br>Visual Studio Code</p></td>
       <td><p align="center"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/768px-Windows_logo_-_2021.svg.png?20220927154043" alt="windows" width="30" height="30"/> <br>Windows</p></td>
-      <td><p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/><br> MySQL</p></td> 
+      <td><p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/><br> MySQL</p></td>
+      <td><p align="center"><img src="https://www.pinclipart.com/picdir/big/544-5449301_unity-logo-png-transparent-svg-vector-unity-logo.png" alt="mysql" width="30" height="30"/><br> Unity</p></td> 
       <td><p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" alt="canva" width="30" height="30"/><br>Canva</p></td>
       <td><p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/><br>Git</p></td>
      </tr>
@@ -48,6 +51,7 @@
       <td><p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="30" height="30"/><br>CSS</p></td>
       <td><p align="center"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" width="30" height="30"/><br>Eclipse</p></td>
       <td><p align="center"><img src="https://conocimientolibre.mx/wp-content/uploads/2019/04/logo-ubuntu.png" alt="ubuntu" width="30" height="30"/><br>Ubuntu</p></td>
+      <td><p align="center"></td>
       <td><p align="center"></td>
       <td><p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="Figma" width="30" height="30"/><br>Figma</p></td>
       <td><p align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="mysql" width="30" height="30"/><br>Postman</p></td>
@@ -59,6 +63,7 @@
       <td></td>
       <td></td>
       <td></td>
+      <td><p align="center"></td>
       <td><p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe XD" width="30" height="30"/><br>Adobe XD</p></td>
       <td><p align="center"><img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" alt="netlify" width="30" height="30"/><br>Netlify</p></td>
      </tr>
@@ -66,6 +71,10 @@
      <tr>
       <td><p align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/><br>Arduino</p></td>
       <td><p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="30" height="30"/><br>React</p></td>
+     </tr>
+     <!--Qunita fila-->
+     <tr>
+      <td><p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1024px-C_Sharp_wordmark.svg.png" alt=" sharp" width="30" height="30"/><br>C Sharp</p></td>
      </tr>
   </tboby>
  </table>
