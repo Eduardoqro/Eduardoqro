@@ -3,7 +3,7 @@
 <h1 align="center"><img src="https://media1.giphy.com/media/UvPvsX9oMlMWs/giphy.gif?cid=790b76115ba55f5cd86a554bdbba7de2700dfd927834a8e4&rid=giphy.gif&ct=s" width="40"> Bienvenido a mi Github, es un gusto conocerte</h1>
 
 <!--Titulo de profesion, oficio o actividad que realices-->
-<h3 align="center">< Programador Jr. Java Full Stack y Front-end ></h3>
+<h3 align="center">< Desarrollador Jr. Java Full Stack y Front-end ></h3>
  
 <!--Apartado donde hable de ti , cosas que te gustan hacer, actividades que realizas, medios de contacto-->
 <h2>Un poco sobre mi ... </h2>
@@ -105,5 +105,5 @@
  <h3>Juegos<code>Desarrollo de juego de laberinto y adivinanzas </code></h3><img align='right' src="https://raw.githubusercontent.com/Eduardoqro/Eduardoqro/main/Adivinanzas.png" width="450">
  <!-- Contenido-->
  <p>Proyectos realizados durante el curso de desarrollos de videojuegos con Unity. Se desarrollaron 2 juegos, un juedo de adivinanzas y otro de laberinto. Se utilizó el motor de desarrollo para videojuegos Unity, visual studio para la programación de scripting con C# y pixelart para los diseños de jugador, ambiente y enemigos.   </p>
- <br> Links de los Repositorios: <a href="https://github.com/Eduardoqro/Adivinanzas">Adivinanzas</a>, <a href="https://github.com/Eduardoqro/Laberinto">Laberinto</a>,</p><br>
+ <br> Links de los Repositorios: <a href="https://github.com/Eduardoqro/Adivinanzas">Adivinanzas</a> y <a href="https://github.com/Eduardoqro/Laberinto">Laberinto</a></p><br>
 
