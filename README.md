@@ -3,7 +3,7 @@
 <h1 align="center"><img src="https://media1.giphy.com/media/UvPvsX9oMlMWs/giphy.gif?cid=790b76115ba55f5cd86a554bdbba7de2700dfd927834a8e4&rid=giphy.gif&ct=s" width="40"> Bienvenido a mi Github, es un gusto conocerte</h1>
 
 <!--Titulo de profesion, oficio o actividad que realices-->
-<h3 align="center">< Desarrollador Jr. Java Full Stack y Front-end ></h3>
+<h3 align="center">< Desarrollador Full Stack | Aplicaciones Moviles | Ingeniero electrónico  ></h3>
  
 <!--Apartado donde hable de ti , cosas que te gustan hacer, actividades que realizas, medios de contacto-->
 <h2>Un poco sobre mi ... </h2>
