@@ -17,9 +17,9 @@
   <h4 align="center"><i>"La tecnología se estructura con lógica y criterio pero se le da vida con arte y cultura"</i></h4>
 
 ### :zap: Actividad reciente
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
 
 <!--Animación para lista de habilidades --> 
 ## <img src="https://media3.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif?cid=790b7611aeabe34c4fecb60e64e8bc8792646e7f6343e3b5&rid=giphy.gif&ct=g" width="60">Habilidades Técnicas
